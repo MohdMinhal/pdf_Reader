@@ -2,4 +2,4 @@
 Pdf Reader made in kotlin
 
 It's a simple lightweight app which performs it's tasks effectivily and efficiently.
-no unnecessary garbage or cache generater.
+Also it unnecessary don't create extra garbage or cache.
